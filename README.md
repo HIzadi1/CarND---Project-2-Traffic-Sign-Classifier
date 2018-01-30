@@ -5,4 +5,6 @@ The main files are:
 2) The code output in HTML: Traffic_Sign_Classifier_HI.html
 3) Write up: Traffic Sign Recognition_P2_HIzadi.pdf
 
+The repository git address is: https://github.com/HIzadi1/CarND---Project-2-Traffic-Sign-Classifier.git
 
+Date: Jan-28-2018
